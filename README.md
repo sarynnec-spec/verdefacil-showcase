@@ -277,7 +277,7 @@ tests/
 ## Autoria
 
 **Sarynne Coelho Ferreira**
-[LinkedIn](https://www.linkedin.com/in/sarynne-coelho-ferreira) · Porto, Portugal
+[LinkedIn](https://www.linkedin.com/in/sarynne-coelho-ferreira) · Aveiro, Portugal
 
 Disponível para dar acesso de leitura ao repositório privado, ou para percorrer o
 código e as decisões em entrevista.
